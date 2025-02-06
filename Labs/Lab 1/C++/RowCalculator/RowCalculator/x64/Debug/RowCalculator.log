@@ -1,5 +1,0 @@
-﻿  Mrow.cpp
-C:\Users\user\Desktop\OOP\Labs\Lab 1\C++\RowCalculator\RowCalculator\Mrow.cpp(12,22): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
-  main.cpp
-  Generating Code...
-  RowCalculator.vcxproj -> C:\Users\user\Desktop\OOP\Labs\Lab 1\C++\RowCalculator\x64\Debug\RowCalculator.exe
