@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\OOP\\Labs\\Lab 1\\C\u002B\u002B\\RowCalculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B0158E5-5334-4389-9C35-E4BE9C8E1257}|RowCalculator\\RowCalculator.vcxproj|C:\\Users\\user\\Desktop\\OOP\\Labs\\Lab 1\\C\u002B\u002B\\RowCalculator\\RowCalculator\\Mrow.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2B0158E5-5334-4389-9C35-E4BE9C8E1257}|RowCalculator\\RowCalculator.vcxproj|solutionrelative:RowCalculator\\Mrow.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B0158E5-5334-4389-9C35-E4BE9C8E1257}|RowCalculator\\RowCalculator.vcxproj|C:\\Users\\user\\Desktop\\OOP\\Labs\\Lab 1\\C\u002B\u002B\\RowCalculator\\RowCalculator\\Mrow.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2B0158E5-5334-4389-9C35-E4BE9C8E1257}|RowCalculator\\RowCalculator.vcxproj|solutionrelative:RowCalculator\\Mrow.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B0158E5-5334-4389-9C35-E4BE9C8E1257}|RowCalculator\\RowCalculator.vcxproj|C:\\Users\\user\\Desktop\\OOP\\Labs\\Lab 1\\C\u002B\u002B\\RowCalculator\\RowCalculator\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2B0158E5-5334-4389-9C35-E4BE9C8E1257}|RowCalculator\\RowCalculator.vcxproj|solutionrelative:RowCalculator\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Mrow.h",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\OOP\\Labs\\Lab 1\\C\u002B\u002B\\RowCalculator\\RowCalculator\\Mrow.h",
+              "RelativeDocumentMoniker": "RowCalculator\\Mrow.h",
+              "ToolTip": "C:\\Users\\user\\Desktop\\OOP\\Labs\\Lab 1\\C\u002B\u002B\\RowCalculator\\RowCalculator\\Mrow.h",
+              "RelativeToolTip": "RowCalculator\\Mrow.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-05T19:39:53.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Mrow.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\OOP\\Labs\\Lab 1\\C\u002B\u002B\\RowCalculator\\RowCalculator\\Mrow.cpp",
+              "RelativeDocumentMoniker": "RowCalculator\\Mrow.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\OOP\\Labs\\Lab 1\\C\u002B\u002B\\RowCalculator\\RowCalculator\\Mrow.cpp",
+              "RelativeToolTip": "RowCalculator\\Mrow.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-05T19:39:51.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\OOP\\Labs\\Lab 1\\C\u002B\u002B\\RowCalculator\\RowCalculator\\main.cpp",
+              "RelativeDocumentMoniker": "RowCalculator\\main.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\OOP\\Labs\\Lab 1\\C\u002B\u002B\\RowCalculator\\RowCalculator\\main.cpp",
+              "RelativeToolTip": "RowCalculator\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-05T13:25:53.95Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
