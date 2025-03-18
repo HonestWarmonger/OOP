@@ -61,7 +61,7 @@ Rectangle Rectangle::operator-(const Rectangle& rhs) const
     );
 }
 
-/ Оператор ділення
+//Оператор ділення
 Rectangle Rectangle::operator/(double val) const
 {
 
