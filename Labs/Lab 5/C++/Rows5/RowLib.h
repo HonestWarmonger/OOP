@@ -27,4 +27,4 @@ public:
     std::string increase() const override;
 };
 
-#endif // RIADKYLIB_H
+#endif
