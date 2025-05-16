@@ -5,6 +5,26 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\OOP\\Labs\\Lab 6\\C\u002B\u002B\\Rows6\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\OOP\\Labs\\Lab 6\\C\u002B\u002B\\Rows6\\Row.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Row.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\OOP\\Labs\\Lab 6\\C\u002B\u002B\\Rows6\\Row.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Row.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\OOP\\Labs\\Lab 6\\C\u002B\u002B\\Rows6\\Text.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Text.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\OOP\\Labs\\Lab 6\\C\u002B\u002B\\Rows6\\Text.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Text.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\OOP\\Labs\\Lab 6\\C\u002B\u002B\\Rows6\\IWhitespaceCleaner.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IWhitespaceCleaner.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +34,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Text.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\OOP\\Labs\\Lab 6\\C\u002B\u002B\\Rows6\\Text.cpp",
+              "RelativeDocumentMoniker": "Text.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\OOP\\Labs\\Lab 6\\C\u002B\u002B\\Rows6\\Text.cpp",
+              "RelativeToolTip": "Text.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-04T17:20:50.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Text.h",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\OOP\\Labs\\Lab 6\\C\u002B\u002B\\Rows6\\Text.h",
+              "RelativeDocumentMoniker": "Text.h",
+              "ToolTip": "C:\\Users\\user\\Desktop\\OOP\\Labs\\Lab 6\\C\u002B\u002B\\Rows6\\Text.h",
+              "RelativeToolTip": "Text.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-04T17:20:19.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Row.h",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\OOP\\Labs\\Lab 6\\C\u002B\u002B\\Rows6\\Row.h",
+              "RelativeDocumentMoniker": "Row.h",
+              "ToolTip": "C:\\Users\\user\\Desktop\\OOP\\Labs\\Lab 6\\C\u002B\u002B\\Rows6\\Row.h",
+              "RelativeToolTip": "Row.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-04T17:19:36.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Row.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\OOP\\Labs\\Lab 6\\C\u002B\u002B\\Rows6\\Row.cpp",
+              "RelativeDocumentMoniker": "Row.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\OOP\\Labs\\Lab 6\\C\u002B\u002B\\Rows6\\Row.cpp",
+              "RelativeToolTip": "Row.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-04T17:19:24.379Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,10 +96,22 @@
               "RelativeDocumentMoniker": "main.cpp",
               "ToolTip": "C:\\Users\\user\\Desktop\\OOP\\Labs\\Lab 6\\C\u002B\u002B\\Rows6\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-04T17:14:58.734Z",
+              "WhenOpened": "2025-05-04T17:18:59.297Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IWhitespaceCleaner.h",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\OOP\\Labs\\Lab 6\\C\u002B\u002B\\Rows6\\IWhitespaceCleaner.h",
+              "RelativeDocumentMoniker": "IWhitespaceCleaner.h",
+              "ToolTip": "C:\\Users\\user\\Desktop\\OOP\\Labs\\Lab 6\\C\u002B\u002B\\Rows6\\IWhitespaceCleaner.h",
+              "RelativeToolTip": "IWhitespaceCleaner.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-04T17:18:23.679Z"
             }
           ]
         }
