@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\OOP\\ML3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BF5ED26E-6255-4339-B467-D2C4593F00B8}|ML3\\ML3.csproj|c:\\users\\user\\desktop\\oop\\ml3\\ml3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{BF5ED26E-6255-4339-B467-D2C4593F00B8}|ML3\\ML3.csproj|solutionrelative:ml3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{BF5ED26E-6255-4339-B467-D2C4593F00B8}|ML3\\ML3.csproj|C:\\Users\\user\\Desktop\\OOP\\ML3\\ml3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF5ED26E-6255-4339-B467-D2C4593F00B8}|ML3\\ML3.csproj|solutionrelative:ml3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BF5ED26E-6255-4339-B467-D2C4593F00B8}|ML3\\ML3.csproj|c:\\users\\user\\desktop\\oop\\ml3\\ml3\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BF5ED26E-6255-4339-B467-D2C4593F00B8}|ML3\\ML3.csproj|solutionrelative:ml3\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF5ED26E-6255-4339-B467-D2C4593F00B8}|ML3\\ML3.csproj|C:\\Users\\user\\Desktop\\OOP\\ML3\\ML3\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF5ED26E-6255-4339-B467-D2C4593F00B8}|ML3\\ML3.csproj|solutionrelative:ML3\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BF5ED26E-6255-4339-B467-D2C4593F00B8}|ML3\\ML3.csproj|C:\\Users\\user\\Desktop\\OOP\\ML3\\ML3\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BF5ED26E-6255-4339-B467-D2C4593F00B8}|ML3\\ML3.csproj|solutionrelative:ML3\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF5ED26E-6255-4339-B467-D2C4593F00B8}|ML3\\ML3.csproj|C:\\Users\\user\\Desktop\\OOP\\ML3\\ml3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BF5ED26E-6255-4339-B467-D2C4593F00B8}|ML3\\ML3.csproj|solutionrelative:ml3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +26,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\OOP\\ML3\\ML3\\Form1.cs",
               "RelativeDocumentMoniker": "ML3\\Form1.cs",
@@ -42,13 +42,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\OOP\\ML3\\ML3\\Form1.cs",
               "RelativeDocumentMoniker": "ML3\\Form1.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\OOP\\ML3\\ML3\\Form1.cs",
               "RelativeToolTip": "ML3\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAIoAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-11T15:20:16.752Z",
               "EditorCaption": ""
@@ -61,22 +61,23 @@
               "RelativeDocumentMoniker": "ML3\\Form1.Designer.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\OOP\\ML3\\ML3\\Form1.Designer.cs",
               "RelativeToolTip": "ML3\\Form1.Designer.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAqwBoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-11T15:20:02.183Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\OOP\\ML3\\ML3\\Program.cs",
               "RelativeDocumentMoniker": "ML3\\Program.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\OOP\\ML3\\ML3\\Program.cs",
               "RelativeToolTip": "ML3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T15:19:59.335Z"
+              "WhenOpened": "2025-06-11T15:19:59.335Z",
+              "EditorCaption": ""
             }
           ]
         }

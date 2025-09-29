@@ -1,0 +1,43 @@
+Student AndriyKravets
+{ "firstname": "Andriy",
+  "lastname": "Kravets",
+  "studentId": "KB0311",
+  "course": "3",
+  "gender": "Male",
+  "dorm": "5-412" };
+Student OlehMarchenko
+{ "firstname": "Oleh",
+  "lastname": "Marchenko",
+  "studentId": "KB0312",
+  "course": "3",
+  "gender": "Male",
+  "dorm": "2-118" };
+Student DenysHnatyk
+{ "firstname": "Denys",
+  "lastname": "Hnatyk",
+  "studentId": "KB0210",
+  "course": "2",
+  "gender": "Male",
+  "city": "Kyiv" };
+Student IhorStepanov
+{ "firstname": "Ihor",
+  "lastname": "Stepanov",
+  "studentId": "KB0301",
+  "course": "3",
+  "gender": "Male",
+  "city": "Lviv" };
+Student IrynaMelnyk
+{ "firstname": "Iryna",
+  "lastname": "Melnyk",
+  "studentId": "KB0107",
+  "course": "1",
+  "gender": "Female",
+  "dorm": "1-217" };
+Seller SerhiiProdan
+{ "firstname": "Serhii",
+  "lastname": "Prodan",
+  "shop": "Grocery-7" };
+Gardener PetroSadovyi
+{ "firstname": "Petro",
+  "lastname": "Sadovyi",
+  "area": "Campus North" };

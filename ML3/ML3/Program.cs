@@ -15,3 +15,12 @@ namespace MovieDatabase
         }
     }
 }
+
+
+
+public class Movie
+{
+    public string Title { get; set; }
+    public int Year { get; set; }
+    public string Url { get; set; }
+}
