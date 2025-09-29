@@ -18,14 +18,12 @@ namespace Lab31V11
             var path = "data_v11.txt";
             var ds = new TextFileDataSource(path);
 
-            // Якщо файлу немає — згенеруємо демо-данi i збережемо
             if (!System.IO.File.Exists(path))
             {
                 Seed();
                 ds.SaveAll(_students, _studentCount, _sellers, _sellerCount, _gardeners, _gardenerCount);
             }
 
-            // Почистимо i завантажимо з файлу
             Array.Clear(_students, 0, _students.Length);
             Array.Clear(_sellers, 0, _sellers.Length);
             Array.Clear(_gardeners, 0, _gardeners.Length);
@@ -42,7 +40,6 @@ namespace Lab31V11
 
         private static void Seed()
         {
-            // Декiлька студентiв, серед них — 3 курс чоловiки у гуртожитку
             _students[_studentCount++] = MakeStudent("Andriy", "Kravets", "KB0311", 3, Gender.Male, dorm: "5-412");
             _students[_studentCount++] = MakeStudent("Oleh", "Marchenko", "KB0312", 3, Gender.Male, dorm: "2-118");
             _students[_studentCount++] = MakeStudent("Denys", "Hnatyk", "KB0210", 2, Gender.Male, city: "Kyiv");

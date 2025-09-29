@@ -20,7 +20,7 @@ namespace Lab31V11.Domain
         public string FullName => $"{FirstName} {LastName}";
     }
 
-    // додаткова “вмiлiсть” з варiанта — спати стоячи
+    // додаткова “вмiлiсть” з варiанта
     public interface ISleepStanding { void SleepStanding(); }
 
     public sealed class Student : Person, ISleepStanding
@@ -34,7 +34,7 @@ namespace Lab31V11.Domain
         public bool LivesInDorm;
         public int DormNumber;      // якщо в гуртожитку
         public string DormRoom;     // кiмната
-        public string City;         // iнакше — мiсто
+        public string City;         // iнакше
 
         public Student(string first, string last, string id, int course, Gender gender)
             : base(first, last)
@@ -62,19 +62,19 @@ namespace Lab31V11.Domain
             DormRoom = null;
         }
 
-        public void SleepStanding() { /* демонстрацiя поведiнки */ }
+        public void SleepStanding() { }
     }
 
-    // Двi пов'язанi сутностi за табл. варiанта: Seller, Gardener
+    // Двi пов'язанi сутностi за табл. варiанта Seller, Gardener
     public sealed class Seller : Person
     {
-        public string Shop; // опцiйно
+        public string Shop;
         public Seller(string first, string last, string shop = null) : base(first, last) { Shop = shop ?? ""; }
     }
 
     public sealed class Gardener : Person
     {
-        public string Area; // опцiйно
+        public string Area;
         public Gardener(string first, string last, string area = null) : base(first, last) { Area = area ?? ""; }
     }
 }

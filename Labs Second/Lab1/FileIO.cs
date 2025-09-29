@@ -4,7 +4,7 @@ using Lab31V11.Domain;
 
 namespace Lab31V11.IO
 {
-    /// Працюємо з одним файлом-джерелом (Student/Seller/Gardener).
+    /// Працюємо з одним файлом-джерелом
     public sealed class TextFileDataSource
     {
         private readonly string _path;
@@ -27,7 +27,7 @@ namespace Lab31V11.IO
                 w.WriteLine($"  \"course\": \"{s.Course}\",");
                 w.WriteLine($"  \"gender\": \"{s.Gender}\"{(s.LivesInDorm ? "," : "")}");
                 if (s.LivesInDorm)
-                    w.WriteLine($"  \"dorm\": \"{s.DormNumber}-{s.DormRoom}\""); // формат №гурт-кiмната
+                    w.WriteLine($"  \"dorm\": \"{s.DormNumber}-{s.DormRoom}\"");
                 else
                     w.WriteLine($"  \"city\": \"{s.City}\"");
                 w.WriteLine("};");
