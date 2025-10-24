@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\OOP\Labs Second\Lab3\Pl\BLL\bin\Debug\net8.0\BLL.deps.json
+C:\Users\user\Desktop\OOP\Labs Second\Lab3\Pl\BLL\bin\Debug\net8.0\BLL.dll
+C:\Users\user\Desktop\OOP\Labs Second\Lab3\Pl\BLL\bin\Debug\net8.0\BLL.pdb
+C:\Users\user\Desktop\OOP\Labs Second\Lab3\Pl\BLL\bin\Debug\net8.0\DAL.dll
+C:\Users\user\Desktop\OOP\Labs Second\Lab3\Pl\BLL\bin\Debug\net8.0\DAL.pdb
+C:\Users\user\Desktop\OOP\Labs Second\Lab3\Pl\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\OOP\Labs Second\Lab3\Pl\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\OOP\Labs Second\Lab3\Pl\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\OOP\Labs Second\Lab3\Pl\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+C:\Users\user\Desktop\OOP\Labs Second\Lab3\Pl\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\OOP\Labs Second\Lab3\Pl\BLL\obj\Debug\net8.0\BLL.sourcelink.json
+C:\Users\user\Desktop\OOP\Labs Second\Lab3\Pl\BLL\obj\Debug\net8.0\BLL.csproj.Up2Date
+C:\Users\user\Desktop\OOP\Labs Second\Lab3\Pl\BLL\obj\Debug\net8.0\BLL.dll
+C:\Users\user\Desktop\OOP\Labs Second\Lab3\Pl\BLL\obj\Debug\net8.0\refint\BLL.dll
+C:\Users\user\Desktop\OOP\Labs Second\Lab3\Pl\BLL\obj\Debug\net8.0\BLL.pdb
+C:\Users\user\Desktop\OOP\Labs Second\Lab3\Pl\BLL\obj\Debug\net8.0\ref\BLL.dll

@@ -1,0 +1,22 @@
+[
+  {
+    "Value": "Hello world",
+    "Length": 11
+  },
+  {
+    "Value": "C# serialization",
+    "Length": 16
+  },
+  {
+    "Value": "Lab work 3.3",
+    "Length": 12
+  },
+  {
+    "Value": "Visual Studio",
+    "Length": 13
+  },
+  {
+    "Value": "Student project",
+    "Length": 15
+  }
+]
