@@ -26,7 +26,6 @@ namespace Lab32_Var11.Collections
             return node;
         }
 
-        // PostOrder: Left -> Right -> Node
         public IEnumerator<T> GetEnumerator()
         {
             var stack = new Stack<Node>();
@@ -37,7 +36,6 @@ namespace Lab32_Var11.Collections
             {
                 var node = stack.Peek();
 
-                // якщо є лівий і ще не відвідували
                 if (node.Left != null && !visited.Contains(node.Left))
                 {
                     stack.Push(node.Left);

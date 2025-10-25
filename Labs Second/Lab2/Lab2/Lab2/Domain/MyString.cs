@@ -10,7 +10,6 @@
             Value = value;
         }
 
-        // --- Методи ---
         public bool Contains(string sub) => Value.Contains(sub);
 
         public void Insert(int index, string sub)
@@ -29,7 +28,6 @@
             return $"{Value} (len={Length})";
         }
 
-        // Порівняння для дерева → за довжиною рядка
         public int CompareTo(MyString other)
         {
             if (other == null) return 1;
