@@ -8,9 +8,8 @@ namespace Lab32_Var11.Collections
         private class Node
         {
             public T Value;
-            public Node Left;
-            public Node Right;
-            public Node(T value) { Value = value; }
+            public Node Left, Right;
+            public Node(T v) { Value = v; }
         }
 
         private Node _root;
@@ -28,22 +27,18 @@ namespace Lab32_Var11.Collections
 
         public IEnumerator<T> GetEnumerator()
         {
-            var stack = new Stack<Node>();
-            var visited = new HashSet<Node>();
-            if (_root != null) stack.Push(_root);
+            if (_root == null) yield break;
+            Stack<Node> stack = new();
+            HashSet<Node> visited = new();
+            stack.Push(_root);
 
             while (stack.Count > 0)
             {
                 var node = stack.Peek();
-
                 if (node.Left != null && !visited.Contains(node.Left))
-                {
                     stack.Push(node.Left);
-                }
                 else if (node.Right != null && !visited.Contains(node.Right))
-                {
                     stack.Push(node.Right);
-                }
                 else
                 {
                     yield return node.Value;

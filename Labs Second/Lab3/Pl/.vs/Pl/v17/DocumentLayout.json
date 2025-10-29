@@ -3,36 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\OOP\\Labs Second\\Lab3\\Pl\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EC11B0A2-CBE3-40CF-B30B-13A22A539DB4}|Pl\\Pl.csproj|c:\\users\\user\\desktop\\oop\\labs second\\lab3\\pl\\pl\\pl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{EC11B0A2-CBE3-40CF-B30B-13A22A539DB4}|Pl\\Pl.csproj|solutionrelative:pl\\pl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{EC11B0A2-CBE3-40CF-B30B-13A22A539DB4}|Pl\\PL.csproj|c:\\users\\user\\desktop\\oop\\labs second\\lab3\\pl\\pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC11B0A2-CBE3-40CF-B30B-13A22A539DB4}|Pl\\PL.csproj|solutionrelative:pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{62B542F3-5C17-4302-A364-6EC5DB4FC6BA}|DAL\\DAL.csproj|c:\\users\\user\\desktop\\oop\\labs second\\lab3\\pl\\dal\\entities\\mystring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62B542F3-5C17-4302-A364-6EC5DB4FC6BA}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\mystring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62B542F3-5C17-4302-A364-6EC5DB4FC6BA}|DAL\\DAL.csproj|c:\\users\\user\\desktop\\oop\\labs second\\lab3\\pl\\dal\\data\\jsonprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62B542F3-5C17-4302-A364-6EC5DB4FC6BA}|DAL\\DAL.csproj|solutionrelative:dal\\data\\jsonprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62B542F3-5C17-4302-A364-6EC5DB4FC6BA}|DAL\\DAL.csproj|c:\\users\\user\\desktop\\oop\\labs second\\lab3\\pl\\dal\\data\\idataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62B542F3-5C17-4302-A364-6EC5DB4FC6BA}|DAL\\DAL.csproj|solutionrelative:dal\\data\\idataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{383EA84F-AF4F-43E0-9365-3CB46C94ED04}|BLL\\BLL.csproj|c:\\users\\user\\desktop\\oop\\labs second\\lab3\\pl\\bll\\entityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{383EA84F-AF4F-43E0-9365-3CB46C94ED04}|BLL\\BLL.csproj|solutionrelative:bll\\entityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EC11B0A2-CBE3-40CF-B30B-13A22A539DB4}|Pl\\PL.csproj|c:\\users\\user\\desktop\\oop\\labs second\\lab3\\pl\\pl\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC11B0A2-CBE3-40CF-B30B-13A22A539DB4}|Pl\\PL.csproj|solutionrelative:pl\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{62B542F3-5C17-4302-A364-6EC5DB4FC6BA}|DAL\\DAL.csproj|c:\\users\\user\\desktop\\oop\\labs second\\lab3\\pl\\dal\\entitycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{62B542F3-5C17-4302-A364-6EC5DB4FC6BA}|DAL\\DAL.csproj|solutionrelative:dal\\entitycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EC11B0A2-CBE3-40CF-B30B-13A22A539DB4}|Pl\\Pl.csproj|c:\\users\\user\\desktop\\oop\\labs second\\lab3\\pl\\pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC11B0A2-CBE3-40CF-B30B-13A22A539DB4}|Pl\\Pl.csproj|solutionrelative:pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{383EA84F-AF4F-43E0-9365-3CB46C94ED04}|BLL\\BLL.csproj|c:\\users\\user\\desktop\\oop\\labs second\\lab3\\pl\\bll\\entityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{383EA84F-AF4F-43E0-9365-3CB46C94ED04}|BLL\\BLL.csproj|solutionrelative:bll\\entityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EC11B0A2-CBE3-40CF-B30B-13A22A539DB4}|Pl\\Pl.csproj|c:\\users\\user\\desktop\\oop\\labs second\\lab3\\pl\\pl\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC11B0A2-CBE3-40CF-B30B-13A22A539DB4}|Pl\\Pl.csproj|solutionrelative:pl\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{62B542F3-5C17-4302-A364-6EC5DB4FC6BA}|DAL\\DAL.csproj|c:\\users\\user\\desktop\\oop\\labs second\\lab3\\pl\\dal\\data\\idataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62B542F3-5C17-4302-A364-6EC5DB4FC6BA}|DAL\\DAL.csproj|solutionrelative:dal\\data\\idataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B542F3-5C17-4302-A364-6EC5DB4FC6BA}|DAL\\DAL.csproj|c:\\users\\user\\desktop\\oop\\labs second\\lab3\\pl\\dal\\data\\jsonprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62B542F3-5C17-4302-A364-6EC5DB4FC6BA}|DAL\\DAL.csproj|solutionrelative:dal\\data\\jsonprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B542F3-5C17-4302-A364-6EC5DB4FC6BA}|DAL\\DAL.csproj|c:\\users\\user\\desktop\\oop\\labs second\\lab3\\pl\\dal\\entities\\mystring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62B542F3-5C17-4302-A364-6EC5DB4FC6BA}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\mystring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC11B0A2-CBE3-40CF-B30B-13A22A539DB4}|Pl\\PL.csproj|c:\\users\\user\\desktop\\oop\\labs second\\lab3\\pl\\pl\\pl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EC11B0A2-CBE3-40CF-B30B-13A22A539DB4}|Pl\\PL.csproj|solutionrelative:pl\\pl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,11 +42,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "PL.csproj",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\OOP\\Labs Second\\Lab3\\Pl\\Pl\\PL.csproj",
               "RelativeDocumentMoniker": "Pl\\PL.csproj",
@@ -59,7 +59,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "MyString.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\OOP\\Labs Second\\Lab3\\Pl\\DAL\\Entities\\MyString.cs",
               "RelativeDocumentMoniker": "DAL\\Entities\\MyString.cs",
@@ -72,7 +72,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "JsonProvider.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\OOP\\Labs Second\\Lab3\\Pl\\DAL\\Data\\JsonProvider.cs",
               "RelativeDocumentMoniker": "DAL\\Data\\JsonProvider.cs",
@@ -85,7 +85,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "IDataProvider.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\OOP\\Labs Second\\Lab3\\Pl\\DAL\\Data\\IDataProvider.cs",
               "RelativeDocumentMoniker": "DAL\\Data\\IDataProvider.cs",
@@ -98,20 +98,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "EntityService.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\OOP\\Labs Second\\Lab3\\Pl\\BLL\\EntityService.cs",
               "RelativeDocumentMoniker": "BLL\\EntityService.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\OOP\\Labs Second\\Lab3\\Pl\\BLL\\EntityService.cs",
               "RelativeToolTip": "BLL\\EntityService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-24T17:06:49.816Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "EntityContext.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\OOP\\Labs Second\\Lab3\\Pl\\DAL\\EntityContext.cs",
               "RelativeDocumentMoniker": "DAL\\EntityContext.cs",
@@ -124,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "Menu.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\OOP\\Labs Second\\Lab3\\Pl\\Pl\\Menu.cs",
               "RelativeDocumentMoniker": "Pl\\Menu.cs",
@@ -137,7 +137,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\OOP\\Labs Second\\Lab3\\Pl\\Pl\\Program.cs",
               "RelativeDocumentMoniker": "Pl\\Program.cs",
