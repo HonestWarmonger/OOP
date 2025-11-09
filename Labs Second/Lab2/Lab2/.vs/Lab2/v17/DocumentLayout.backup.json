@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\OOP\\Labs Second\\Lab2\\Lab2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D797C222-4C84-4790-A5B9-BEB388B4285F}|Lab2\\Lab2.csproj|c:\\users\\user\\desktop\\oop\\labs second\\lab2\\lab2\\lab2\\collections\\binarysearchtree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D797C222-4C84-4790-A5B9-BEB388B4285F}|Lab2\\Lab2.csproj|solutionrelative:lab2\\collections\\binarysearchtree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D797C222-4C84-4790-A5B9-BEB388B4285F}|Lab2\\Lab2.csproj|c:\\users\\user\\desktop\\oop\\labs second\\lab2\\lab2\\lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D797C222-4C84-4790-A5B9-BEB388B4285F}|Lab2\\Lab2.csproj|solutionrelative:lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D797C222-4C84-4790-A5B9-BEB388B4285F}|Lab2\\Lab2.csproj|c:\\users\\user\\desktop\\oop\\labs second\\lab2\\lab2\\lab2\\domain\\mystring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D797C222-4C84-4790-A5B9-BEB388B4285F}|Lab2\\Lab2.csproj|solutionrelative:lab2\\domain\\mystring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D797C222-4C84-4790-A5B9-BEB388B4285F}|Lab2\\Lab2.csproj|c:\\users\\user\\desktop\\oop\\labs second\\lab2\\lab2\\lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D797C222-4C84-4790-A5B9-BEB388B4285F}|Lab2\\Lab2.csproj|solutionrelative:lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D797C222-4C84-4790-A5B9-BEB388B4285F}|Lab2\\Lab2.csproj|c:\\users\\user\\desktop\\oop\\labs second\\lab2\\lab2\\lab2\\collections\\binarysearchtree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D797C222-4C84-4790-A5B9-BEB388B4285F}|Lab2\\Lab2.csproj|solutionrelative:lab2\\collections\\binarysearchtree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,17 +22,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "BinarySearchTree.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\OOP\\Labs Second\\Lab2\\Lab2\\Lab2\\Collections\\BinarySearchTree.cs",
               "RelativeDocumentMoniker": "Lab2\\Collections\\BinarySearchTree.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\OOP\\Labs Second\\Lab2\\Lab2\\Lab2\\Collections\\BinarySearchTree.cs",
               "RelativeToolTip": "Lab2\\Collections\\BinarySearchTree.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-29T14:46:40.493Z",
               "EditorCaption": ""
@@ -52,13 +52,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\OOP\\Labs Second\\Lab2\\Lab2\\Lab2\\Program.cs",
               "RelativeDocumentMoniker": "Lab2\\Program.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\OOP\\Labs Second\\Lab2\\Lab2\\Lab2\\Program.cs",
               "RelativeToolTip": "Lab2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCIAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-29T14:43:28.406Z",
               "EditorCaption": ""
