@@ -1,0 +1,50 @@
+[
+    {
+        "LastName": "Петренко",
+        "FirstName": "Олександр",
+        "Course": 3,
+        "StudentTicketId": "KB1001",
+        "Gender": 0,
+        "Residence": "3-101"
+    },
+    {
+        "LastName": "Іваненко",
+        "FirstName": "Марія",
+        "Course": 4,
+        "StudentTicketId": "KB1002",
+        "Gender": 1,
+        "Residence": "3-102"
+    },
+    {
+        "LastName": "Сидоренко",
+        "FirstName": "Іван",
+        "Course": 1,
+        "StudentTicketId": "KB1003",
+        "Gender": 0,
+        "Residence": "5-205"
+    },
+    {
+        "LastName": "Коваленко",
+        "FirstName": "Дмитро",
+        "Course": 3,
+        "StudentTicketId": "KB1004",
+        "Gender": 0,
+        "Residence": null
+    },
+    {
+        "LastName": "Бондаренко",
+        "FirstName": "Сергій",
+        "Course": 5,
+        "StudentTicketId": "KB1005",
+        "Gender": 0,
+        "Residence": "3-105"
+    },
+    {
+        "LastName": "Ткаченко",
+        "FirstName": "Анна",
+        "Course": 2,
+        "StudentTicketId": "KB1006",
+        "Gender": 1,
+        "Residence": null
+    }
+]
