@@ -40,7 +40,7 @@ namespace StudentSystem.Tests
             var young = new Student { FirstName = "Ivan", Course = 1 };
             var old = new Student { FirstName = "Petro", Course = 4 };
 
-            Assert.Contains("занадто молодий", young.Sleep());
+            Assert.Contains("новачок", young.Sleep());
             Assert.Contains("вміє спати", old.Sleep());
         }
     }

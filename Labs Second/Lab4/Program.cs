@@ -21,8 +21,8 @@ namespace Lab34.Var11
                 string.IsNullOrEmpty(text) ? 0 : text.Count(char.IsLower);
 
             string example = "MetalScape Project";
-            Console.WriteLine($"[Anon] Кількість малих літер у \"{example}\" = {viaAnonymous(example)}");
-            Console.WriteLine($"[Lambda] Кількість малих літер у \"{example}\" = {viaLambda(example)}");
+            Console.WriteLine($"Кількість малих літер у \"{example}\" = {viaAnonymous(example)}");
+            Console.WriteLine($"Кількість малих літер у \"{example}\" = {viaLambda(example)}");
 
             Console.WriteLine("\n=== Події ===");
 
