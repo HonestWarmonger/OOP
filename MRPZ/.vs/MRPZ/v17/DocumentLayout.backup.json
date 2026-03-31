@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\OOP\\MRPZ\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\OOP\\MRPZ\\Lab2\\Lab2t2\\main.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lab2\\Lab2t2\\main.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\OOP\\MRPZ\\Lab2\\main.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lab2\\main.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
@@ -24,18 +28,31 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.java",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\OOP\\MRPZ\\Lab2\\Lab2t2\\main.java",
+              "RelativeDocumentMoniker": "Lab2\\Lab2t2\\main.java",
+              "ToolTip": "C:\\Users\\user\\Desktop\\OOP\\MRPZ\\Lab2\\Lab2t2\\main.java",
+              "RelativeToolTip": "Lab2\\Lab2t2\\main.java",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-22T17:29:59.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.java",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\OOP\\MRPZ\\Lab2\\main.java",
               "RelativeDocumentMoniker": "Lab2\\main.java",
               "ToolTip": "C:\\Users\\user\\Desktop\\OOP\\MRPZ\\Lab2\\main.java",
               "RelativeToolTip": "Lab2\\main.java",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2026-03-22T17:17:46.196Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "main.java",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\OOP\\MRPZ\\Lab1\\main.java",
               "RelativeDocumentMoniker": "Lab1\\main.java",
