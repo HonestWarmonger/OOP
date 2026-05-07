@@ -16,7 +16,7 @@ class Student {
 
     @Override
     public String toString() {
-        return String.format("%-12s %-12s | Група: %-5s | Стать: %s", 
+        return String.format("%-12s %-12s | Р“СЂСѓРїР°: %-5s | РЎС‚Р°С‚СЊ: %s", 
                 lastName, firstName, group, gender);
     }
 }
@@ -33,33 +33,33 @@ class Node {
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("=== ПЕРШИЙ РІВЕНЬ: МАСИВ ===");
+        System.out.println("=== РџР•Р РЁРР™ Р Р†Р’Р•РќР¬: РњРђРЎРР’ ===");
         Student[] studentsArray = {
-            new Student("Іванов", "Олексій", "КН-21", "Чол"),
-            new Student("Петрова", "Анна", "КН-22", "Жін"),
-            new Student("Сидоров", "Борис", "КН-21", "Чол"),
-            new Student("Бондар", "Дмитро", "КН-22", "Чол"),
-            new Student("Шевченко", "Вікторія", "КН-21", "Жін")
+            new Student("Р†РІР°РЅРѕРІ", "РћР»РµРєСЃС–Р№", "РљРќ-21", "Р§РѕР»"),
+            new Student("РџРµС‚СЂРѕРІР°", "РђРЅРЅР°", "РљРќ-22", "Р–С–РЅ"),
+            new Student("РЎРёРґРѕСЂРѕРІ", "Р‘РѕСЂРёСЃ", "РљРќ-21", "Р§РѕР»"),
+            new Student("Р‘РѕРЅРґР°СЂ", "Р”РјРёС‚СЂРѕ", "РљРќ-22", "Р§РѕР»"),
+            new Student("РЁРµРІС‡РµРЅРєРѕ", "Р’С–РєС‚РѕСЂС–СЏ", "РљРќ-21", "Р–С–РЅ")
         };
 
-        System.out.println("Перед сортуванням:");
+        System.out.println("РџРµСЂРµРґ СЃРѕСЂС‚СѓРІР°РЅРЅСЏРј:");
         printArray(studentsArray);
 
         selectionSortArray(studentsArray);
 
-        System.out.println("\nПісля сортування вибіркою (за ім'ям):");
+        System.out.println("\nРџС–СЃР»СЏ СЃРѕСЂС‚СѓРІР°РЅРЅСЏ РІРёР±С–СЂРєРѕСЋ (Р·Р° С–Рј'СЏРј):");
         printArray(studentsArray);
 
 
-        System.out.println("\n\n=== ДРУГИЙ РІВЕНЬ: ОДНОСПРЯМОВАНИЙ СПИСОК ===");
+        System.out.println("\n\n=== Р”Р РЈР“РР™ Р Р†Р’Р•РќР¬: РћР”РќРћРЎРџР РЇРњРћР’РђРќРР™ РЎРџРРЎРћРљ ===");
         Node head = createLinkedList(studentsArray);
 
-        System.out.println("Перед сортуванням списку:");
+        System.out.println("РџРµСЂРµРґ СЃРѕСЂС‚СѓРІР°РЅРЅСЏРј СЃРїРёСЃРєСѓ:");
         printList(head);
 
         head = selectionSortList(head);
 
-        System.out.println("\nПісля сортування вибіркою (за ім'ям):");
+        System.out.println("\nРџС–СЃР»СЏ СЃРѕСЂС‚СѓРІР°РЅРЅСЏ РІРёР±С–СЂРєРѕСЋ (Р·Р° С–Рј'СЏРј):");
         printList(head);
     }
 

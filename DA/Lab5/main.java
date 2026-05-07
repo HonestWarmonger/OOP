@@ -20,7 +20,7 @@ public class Main {
 
         @Override
         public String toString() {
-            return String.format("%-12s %-8s | Курс: %d | Стать: %-4s | Гуртожиток: %-3s | Група: %s",
+            return String.format("%-12s %-8s | РљСѓСЂСЃ: %d | РЎС‚Р°С‚СЊ: %-4s | Р“СѓСЂС‚РѕР¶РёС‚РѕРє: %-3s | Р“СЂСѓРїР°: %s",
                     lastName, firstName, course, 
                     (isMale ? "Male" : "Fem "), 
                     (livesInHostel ? "Yes" : "No "), 
@@ -130,7 +130,7 @@ public class Main {
 
     public static void main(String[] args) {
         
-        System.out.println("====== ЗАВДАННЯ ПЕРШОГО РІВНЯ ======");
+        System.out.println("====== Р—РђР’Р”РђРќРќРЇ РџР•Р РЁРћР“Рћ Р Р†Р’РќРЇ ======");
 
         Student[] studentsArray = {
             new Student("Petrenko", "Andriy", 3, true, false, "KN-21"),
@@ -143,37 +143,37 @@ public class Main {
             new Student("Danylenko", "Olena", 3, false, false, "KI-23")
         };
 
-        System.out.println("Початковий масив студентів:");
+        System.out.println("РџРѕС‡Р°С‚РєРѕРІРёР№ РјР°СЃРёРІ СЃС‚СѓРґРµРЅС‚С–РІ:");
         for (Student s : studentsArray) System.out.println(s);
 
         studentsArray = removeTargetStudents(studentsArray);
 
-        System.out.println("\nМасив ПІСЛЯ виконання завдання (видалено чоловіків 6 курсу з гуртожитку):");
+        System.out.println("\nРњР°СЃРёРІ РџР†РЎР›РЇ РІРёРєРѕРЅР°РЅРЅСЏ Р·Р°РІРґР°РЅРЅСЏ (РІРёРґР°Р»РµРЅРѕ С‡РѕР»РѕРІС–РєС–РІ 6 РєСѓСЂСЃСѓ Р· РіСѓСЂС‚РѕР¶РёС‚РєСѓ):");
         for (Student s : studentsArray) System.out.println(s);
 
 
-        System.out.println("\n=== Другий рівень ===");
-        System.out.println("Створення BST-дерева з вставкою в корінь:\n");
+        System.out.println("\n=== Р”СЂСѓРіРёР№ СЂС–РІРµРЅСЊ ===");
+        System.out.println("РЎС‚РІРѕСЂРµРЅРЅСЏ BST-РґРµСЂРµРІР° Р· РІСЃС‚Р°РІРєРѕСЋ РІ РєРѕСЂС–РЅСЊ:\n");
         
         BST tree = new BST();
         
         for (Student s : studentsArray) {
             tree.insertRoot(s);
-            System.out.print("Після додавання " + s.lastName + ": ");
+            System.out.print("РџС–СЃР»СЏ РґРѕРґР°РІР°РЅРЅСЏ " + s.lastName + ": ");
             tree.printLine();
             System.out.println();
         }
 
         if (studentsArray.length > 0) {
             String searchKey = studentsArray[studentsArray.length - 1].group; 
-            System.out.println("\nПошук в BST-дереві за групою: " + searchKey);
+            System.out.println("\nРџРѕС€СѓРє РІ BST-РґРµСЂРµРІС– Р·Р° РіСЂСѓРїРѕСЋ: " + searchKey);
             Student foundStudent = tree.search(searchKey);
             
-            System.out.println("Знайдений вузол:");
+            System.out.println("Р—РЅР°Р№РґРµРЅРёР№ РІСѓР·РѕР»:");
             if (foundStudent != null) {
                 System.out.println(foundStudent);
             } else {
-                System.out.println("Не знайдено.");
+                System.out.println("РќРµ Р·РЅР°Р№РґРµРЅРѕ.");
             }
         }
     }
