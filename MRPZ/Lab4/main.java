@@ -8,38 +8,38 @@ public class FileInPlaceEditor {
     public static void main(String[] args) {
         Scanner console = new Scanner(System.in);
 
-        System.out.print("Введіть повний шлях до текстового файлу для редагування: ");
+        System.out.print("Р’РІРµРґС–С‚СЊ РїРѕРІРЅРёР№ С€Р»СЏС… РґРѕ С‚РµРєСЃС‚РѕРІРѕРіРѕ С„Р°Р№Р»Сѓ РґР»СЏ СЂРµРґР°РіСѓРІР°РЅРЅСЏ: ");
         String filePath = console.nextLine();
         File file = new File(filePath);
 
         if (!file.exists()) {
-            System.out.println("Помилка: Файл не знайдено за вказаним шляхом.");
+            System.out.println("РџРѕРјРёР»РєР°: Р¤Р°Р№Р» РЅРµ Р·РЅР°Р№РґРµРЅРѕ Р·Р° РІРєР°Р·Р°РЅРёРј С€Р»СЏС…РѕРј.");
             return;
         }
 
         List<String> lines = new ArrayList<>();
 
         try (BufferedReader reader = new BufferedReader(new FileReader(file))) {
-            System.out.println("Читання файлу: " + file.getName());
+            System.out.println("Р§РёС‚Р°РЅРЅСЏ С„Р°Р№Р»Сѓ: " + file.getName());
             String line;
             while ((line = reader.readLine()) != null) {
                 lines.add(swapFirstAndLastWords(line));
             }
-            System.out.println("Файл успішно зчитано та оброблено в пам'яті.");
+            System.out.println("Р¤Р°Р№Р» СѓСЃРїС–С€РЅРѕ Р·С‡РёС‚Р°РЅРѕ С‚Р° РѕР±СЂРѕР±Р»РµРЅРѕ РІ РїР°Рј'СЏС‚С–.");
         } catch (IOException e) {
-            System.err.println("Помилка при читанні: " + e.getMessage());
+            System.err.println("РџРѕРјРёР»РєР° РїСЂРё С‡РёС‚Р°РЅРЅС–: " + e.getMessage());
             return;
         }
 
         try (BufferedWriter writer = new BufferedWriter(new FileWriter(file))) {
-            System.out.println("Запис змін у файл...");
+            System.out.println("Р—Р°РїРёСЃ Р·РјС–РЅ Сѓ С„Р°Р№Р»...");
             for (int i = 0; i < lines.size(); i++) {
                 writer.write(lines.get(i));
                 writer.newLine();
             }
-            System.out.println("Зміни успішно збережені безпосередньо у файлі!");
+            System.out.println("Р—РјС–РЅРё СѓСЃРїС–С€РЅРѕ Р·Р±РµСЂРµР¶РµРЅС– Р±РµР·РїРѕСЃРµСЂРµРґРЅСЊРѕ Сѓ С„Р°Р№Р»С–!");
         } catch (IOException e) {
-            System.err.println("Помилка при записі: " + e.getMessage());
+            System.err.println("РџРѕРјРёР»РєР° РїСЂРё Р·Р°РїРёСЃС–: " + e.getMessage());
         } finally {
             console.close();
         }
