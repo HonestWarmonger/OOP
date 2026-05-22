@@ -4,15 +4,15 @@ public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        String originalText = "Риби це холоднокровні хребетні тварини. Температура їх тіла залежить від температури навколишнього середовища.";
+        String originalText = "Р РёР±Рё С†Рµ С…РѕР»РѕРґРЅРѕРєСЂРѕРІРЅС– С…СЂРµР±РµС‚РЅС– С‚РІР°СЂРёРЅРё. РўРµРјРїРµСЂР°С‚СѓСЂР° С—С… С‚С–Р»Р° Р·Р°Р»РµР¶РёС‚СЊ РІС–Рґ С‚РµРјРїРµСЂР°С‚СѓСЂРё РЅР°РІРєРѕР»РёС€РЅСЊРѕРіРѕ СЃРµСЂРµРґРѕРІРёС‰Р°.";
         
-        System.out.println("--- Вхідні дані ---");
-        System.out.println("Текст: " + originalText);
+        System.out.println("--- Р’С…С–РґРЅС– РґР°РЅС– ---");
+        System.out.println("РўРµРєСЃС‚: " + originalText);
 
-        System.out.print("Введіть позицію k: ");
+        System.out.print("Р’РІРµРґС–С‚СЊ РїРѕР·РёС†С–СЋ k: ");
         int k = scanner.nextInt();
         
-        System.out.print("Введіть символ для заміни: ");
+        System.out.print("Р’РІРµРґС–С‚СЊ СЃРёРјРІРѕР» РґР»СЏ Р·Р°РјС–РЅРё: ");
         char replacementChar = scanner.next().charAt(0);
 
         String[] parts = originalText.split("(?<=[^\\p{L}\\p{Nd}])|(?=[^\\p{L}\\p{Nd}])");
@@ -33,7 +33,7 @@ public class Main {
             }
         }
 
-        System.out.println("\n--- Результат обробки ---");
+        System.out.println("\n--- Р РµР·СѓР»СЊС‚Р°С‚ РѕР±СЂРѕР±РєРё ---");
         System.out.println(resultText.toString());
     }
 }
