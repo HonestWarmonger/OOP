@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\OOP\\KDPZ\\Lab3\\FishingStoreApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{456DCC30-8401-4544-A492-E3E62D481B11}|FishingStoreApp\\FishingStoreApp.csproj|c:\\users\\user\\desktop\\oop\\kdpz\\lab3\\fishingstoreapp\\fishingstoreapp\\services\\inventoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{456DCC30-8401-4544-A492-E3E62D481B11}|FishingStoreApp\\FishingStoreApp.csproj|solutionrelative:fishingstoreapp\\services\\inventoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{456DCC30-8401-4544-A492-E3E62D481B11}|FishingStoreApp\\FishingStoreApp.csproj|c:\\users\\user\\desktop\\oop\\kdpz\\lab3\\fishingstoreapp\\fishingstoreapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{456DCC30-8401-4544-A492-E3E62D481B11}|FishingStoreApp\\FishingStoreApp.csproj|solutionrelative:fishingstoreapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{456DCC30-8401-4544-A492-E3E62D481B11}|FishingStoreApp\\FishingStoreApp.csproj|c:\\users\\user\\desktop\\oop\\kdpz\\lab3\\fishingstoreapp\\fishingstoreapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{456DCC30-8401-4544-A492-E3E62D481B11}|FishingStoreApp\\FishingStoreApp.csproj|solutionrelative:fishingstoreapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{456DCC30-8401-4544-A492-E3E62D481B11}|FishingStoreApp\\FishingStoreApp.csproj|c:\\users\\user\\desktop\\oop\\kdpz\\lab3\\fishingstoreapp\\fishingstoreapp\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{456DCC30-8401-4544-A492-E3E62D481B11}|FishingStoreApp\\FishingStoreApp.csproj|solutionrelative:fishingstoreapp\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{456DCC30-8401-4544-A492-E3E62D481B11}|FishingStoreApp\\FishingStoreApp.csproj|c:\\users\\user\\desktop\\oop\\kdpz\\lab3\\fishingstoreapp\\fishingstoreapp\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{456DCC30-8401-4544-A492-E3E62D481B11}|FishingStoreApp\\FishingStoreApp.csproj|solutionrelative:fishingstoreapp\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{456DCC30-8401-4544-A492-E3E62D481B11}|FishingStoreApp\\FishingStoreApp.csproj|c:\\users\\user\\desktop\\oop\\kdpz\\lab3\\fishingstoreapp\\fishingstoreapp\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{456DCC30-8401-4544-A492-E3E62D481B11}|FishingStoreApp\\FishingStoreApp.csproj|solutionrelative:fishingstoreapp\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\OOP\\KDPZ\\Lab3\\FishingStoreApp\\FishingStoreApp\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "FishingStoreApp\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\OOP\\KDPZ\\Lab3\\FishingStoreApp\\FishingStoreApp\\Services\\OrderService.cs",
+              "RelativeToolTip": "FishingStoreApp\\Services\\OrderService.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAswDgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T12:47:18.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InventoryService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\OOP\\KDPZ\\Lab3\\FishingStoreApp\\FishingStoreApp\\Services\\InventoryService.cs",
+              "RelativeDocumentMoniker": "FishingStoreApp\\Services\\InventoryService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\OOP\\KDPZ\\Lab3\\FishingStoreApp\\FishingStoreApp\\Services\\InventoryService.cs",
+              "RelativeToolTip": "FishingStoreApp\\Services\\InventoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T12:47:08.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\OOP\\KDPZ\\Lab3\\FishingStoreApp\\FishingStoreApp\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "FishingStoreApp\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\OOP\\KDPZ\\Lab3\\FishingStoreApp\\FishingStoreApp\\Models\\Order.cs",
+              "RelativeToolTip": "FishingStoreApp\\Models\\Order.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA7wC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T12:45:42.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\OOP\\KDPZ\\Lab3\\FishingStoreApp\\FishingStoreApp\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "FishingStoreApp\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\OOP\\KDPZ\\Lab3\\FishingStoreApp\\FishingStoreApp\\Models\\Customer.cs",
+              "RelativeToolTip": "FishingStoreApp\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T12:44:53.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\OOP\\KDPZ\\Lab3\\FishingStoreApp\\FishingStoreApp\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "FishingStoreApp\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\OOP\\KDPZ\\Lab3\\FishingStoreApp\\FishingStoreApp\\Models\\Product.cs",
+              "RelativeToolTip": "FishingStoreApp\\Models\\Product.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwBUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T12:43:46.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\OOP\\KDPZ\\Lab3\\FishingStoreApp\\FishingStoreApp\\Program.cs",
+              "RelativeDocumentMoniker": "FishingStoreApp\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\OOP\\KDPZ\\Lab3\\FishingStoreApp\\FishingStoreApp\\Program.cs",
+              "RelativeToolTip": "FishingStoreApp\\Program.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAQwDAAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T12:40:56.599Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

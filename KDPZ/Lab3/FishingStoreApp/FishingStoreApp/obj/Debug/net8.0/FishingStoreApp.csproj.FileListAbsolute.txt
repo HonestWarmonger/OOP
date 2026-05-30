@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\OOP\KDPZ\Lab3\FishingStoreApp\FishingStoreApp\obj\Debug\net8.0\FishingStoreApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\OOP\KDPZ\Lab3\FishingStoreApp\FishingStoreApp\obj\Debug\net8.0\FishingStoreApp.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\OOP\KDPZ\Lab3\FishingStoreApp\FishingStoreApp\obj\Debug\net8.0\FishingStoreApp.AssemblyInfo.cs
+C:\Users\user\Desktop\OOP\KDPZ\Lab3\FishingStoreApp\FishingStoreApp\obj\Debug\net8.0\FishingStoreApp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\OOP\KDPZ\Lab3\FishingStoreApp\FishingStoreApp\obj\Debug\net8.0\FishingStoreApp.sourcelink.json
+C:\Users\user\Desktop\OOP\KDPZ\Lab3\FishingStoreApp\FishingStoreApp\bin\Debug\net8.0\FishingStoreApp.exe
+C:\Users\user\Desktop\OOP\KDPZ\Lab3\FishingStoreApp\FishingStoreApp\bin\Debug\net8.0\FishingStoreApp.deps.json
+C:\Users\user\Desktop\OOP\KDPZ\Lab3\FishingStoreApp\FishingStoreApp\bin\Debug\net8.0\FishingStoreApp.runtimeconfig.json
+C:\Users\user\Desktop\OOP\KDPZ\Lab3\FishingStoreApp\FishingStoreApp\bin\Debug\net8.0\FishingStoreApp.dll
+C:\Users\user\Desktop\OOP\KDPZ\Lab3\FishingStoreApp\FishingStoreApp\bin\Debug\net8.0\FishingStoreApp.pdb
+C:\Users\user\Desktop\OOP\KDPZ\Lab3\FishingStoreApp\FishingStoreApp\obj\Debug\net8.0\FishingStoreApp.dll
+C:\Users\user\Desktop\OOP\KDPZ\Lab3\FishingStoreApp\FishingStoreApp\obj\Debug\net8.0\refint\FishingStoreApp.dll
+C:\Users\user\Desktop\OOP\KDPZ\Lab3\FishingStoreApp\FishingStoreApp\obj\Debug\net8.0\FishingStoreApp.pdb
+C:\Users\user\Desktop\OOP\KDPZ\Lab3\FishingStoreApp\FishingStoreApp\obj\Debug\net8.0\FishingStoreApp.genruntimeconfig.cache
+C:\Users\user\Desktop\OOP\KDPZ\Lab3\FishingStoreApp\FishingStoreApp\obj\Debug\net8.0\ref\FishingStoreApp.dll
