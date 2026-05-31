@@ -14,39 +14,30 @@ namespace FishingStoreApp.Services
             _warehouse.Add(product);
         }
 
-        public bool CheckAvailability(int productId, int requiredQuantity)
+        public void PrintCatalog()
         {
-            var product = _warehouse.FirstOrDefault(p => p.Id == productId);
-            if (product != null && product.QuantityInStock >= requiredQuantity)
+            Console.WriteLine("Каталог товарів:");
+            foreach (var p in _warehouse)
             {
-                return true;
-            }
-            return false;
-        }
-
-        public void ReduceStock(int productId, int quantityToReduce)
-        {
-            var product = _warehouse.FirstOrDefault(p => p.Id == productId);
-            if (product != null)
-            {
-                product.QuantityInStock -= quantityToReduce;
+                Console.WriteLine($"ID: {p.Id} | {p.Name} | {p.Category} | Ціна: {p.Price} грн | На складі: {p.QuantityInStock} шт.");
             }
         }
 
-        public Product GetProductById(int productId)
+        // Додано знак питання (Product?), щоб прибрати жовте попередження CS8632
+        public Product? GetProductById(int productId)
         {
             return _warehouse.FirstOrDefault(p => p.Id == productId);
         }
 
-        // НОВИЙ МЕТОД: Для виведення каталогу в інтерактивному меню
-        public void PrintCatalog()
+        public bool ReduceStock(int productId, int quantity)
         {
-            Console.WriteLine("\n=== КАТАЛОГ ТОВАРІВ НА СКЛАДІ ===");
-            foreach (var product in _warehouse)
+            var product = GetProductById(productId);
+            if (product != null && product.QuantityInStock >= quantity)
             {
-                Console.WriteLine($"[ID: {product.Id}] {product.Name} | {product.Category} | Ціна: {product.Price} грн | В наявності: {product.QuantityInStock} шт.");
+                product.QuantityInStock -= quantity;
+                return true;
             }
-            Console.WriteLine("=================================\n");
+            return false;
         }
     }
 }

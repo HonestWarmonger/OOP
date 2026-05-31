@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace FishingStoreApp.Models
+﻿namespace FishingStoreApp.Models
 {
     public class Product
     {
@@ -10,13 +8,13 @@ namespace FishingStoreApp.Models
         public decimal Price { get; set; }
         public int QuantityInStock { get; set; }
 
-        public Product(int id, string name, string category, decimal price, int quantityInStock)
+        public Product(int id, string name, string category, decimal price, int quantity)
         {
             Id = id;
             Name = name;
             Category = category;
             Price = price;
-            QuantityInStock = quantityInStock;
+            QuantityInStock = quantity;
         }
     }
 }

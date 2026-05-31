@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace FishingStoreApp.Models
+﻿namespace FishingStoreApp.Models
 {
     public class Customer
     {

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FishingStoreApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b885a269f3873441ca51516439390f126a213cb9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+36d80ba9781f5c24161dfd7833d91355d191009f")]
 [assembly: System.Reflection.AssemblyProductAttribute("FishingStoreApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FishingStoreApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
